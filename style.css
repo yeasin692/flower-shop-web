@@ -40,3 +40,68 @@ border-color: #ffffff;
 .banner-hedlin{
     padding: 10px 25px 30px 50px;
 }
+
+
+/* about section style */
+.section-title{
+    padding: 100px 50px 0px 0px;
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.about{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
+.skille-flower{
+display: flex;
+align-items: center;
+padding: 100px;
+
+}
+.skille-line{
+    justify-content: space-around;
+    padding: 0px 20px 20px 20px;
+}
+.skille{
+    color: #272727;
+text-align: center;
+font-size: 24px;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+}
+.skille-1{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.skille-2{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.kislle-3{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+/*emoji related style */
+.emoji{
+    display: flex;
+    padding: 0px 0px 0px 150px;
+    justify-content: center;
+    align-items: center;
+    width: 1440px;
+    height: 320px;
+    gap: 200px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+
+}
