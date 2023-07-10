@@ -1,0 +1,42 @@
+
+/* header related style */
+.header-related{
+    width: 1920px;
+ height: 850px;
+ background: rgba(229, 84, 115, 0.10);
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center
+}
+.banner-title{
+    color: #272727;
+font-size: 80px;
+font-weight: 800;
+
+}
+.banner-greeting{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height:30px;
+}
+.btn-primary{
+color:#fff;
+padding: 20px 43px;
+gap: 10px;
+ border-radius: 8px;
+background: #E55473;
+border-color: #ffffff;
+}
+.flower{
+    padding: 19px 30px 30px 200px;
+    justify-content: center;
+    width: 635px;
+    height: 800px;
+    background-repeat: no-repeat;
+}
+.banner-hedlin{
+    padding: 10px 25px 30px 50px;
+}
