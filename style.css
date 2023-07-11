@@ -156,7 +156,54 @@
 }
 #emoji{
     display: block;
-    margin-top: 50px;
+    display: flex;
+    padding-bottom: 100px;
+    margin-left: 250px;
+    text-align: center;
+    gap: 20px;
+}
+/* background image style */
+.background-image-style{
+    width: 1440px;
+    height: 449px;
+    background-image: url("Rectangle\ 9.png");
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
+.img-style{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.img-style-1{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.img-style-2{
+    justify-content: center;
+     padding: 50px ;
+}
+.input-main{
     text-align: center;
 }
-/*fourd emoji style */
+.input-email{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+}
+.input-btn{
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
