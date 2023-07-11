@@ -2,8 +2,8 @@
 /* header related style */
 .header-related{
     width: 1920px;
- height: 850px;
- background: rgba(229, 84, 115, 0.10);
+    height: 850px;
+    background: rgba(229, 84, 115, 0.10);
 }
 .banner{
     padding: 30px 30px 30px 150px;
@@ -12,23 +12,24 @@
 }
 .banner-title{
     color: #272727;
-font-size: 80px;
-font-weight: 800;
+    font-size: 80px;
+    font-weight: 800;
 
 }
 .banner-greeting{
     color: rgba(39, 39, 39, 0.60);
-font-size: 18px;
-font-weight: 400;
-line-height:30px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height:30px;
+    padding-bottom: 15px;
 }
 .btn-primary{
-color:#fff;
-padding: 20px 43px;
-gap: 10px;
- border-radius: 8px;
-background: #E55473;
-border-color: #ffffff;
+    color:#fff;
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    border-color: #ffffff;
 }
 .flower{
     padding: 19px 30px 30px 200px;
@@ -52,14 +53,16 @@ border-color: #ffffff;
 }
 .about{
     color: rgba(39, 39, 39, 0.60);
-text-align: center;
-font-size: 18px;
-font-weight: 400;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
 }
 .skille-flower{
-display: flex;
-align-items: center;
-padding: 100px;
+    display: flex;
+    align-items: center;
+    padding: 100px;
+    justify-content: space-between;
+    margin: 0px 100px;
 
 }
 .skille-line{
@@ -68,11 +71,11 @@ padding: 100px;
 }
 .skille{
     color: #272727;
-text-align: center;
-font-size: 24px;
-font-weight: 700;
-line-height: 35px;
-text-decoration-line: underline;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+     text-decoration-line: underline;
 }
 .skille-1{
     width: 464px;
@@ -95,12 +98,13 @@ text-decoration-line: underline;
 /*emoji related style */
 .emoji{
     display: flex;
-    margin-left: 100px;
-    padding: 0px 0px 0px 150px;
+    margin:0px 150px;
+    /* padding: 0px 0px 0px 150px; */
     justify-content: center;
     align-items: center;
     width: 1440px;
     height: 320px;
+    padding-left: 150px;
     gap: 200px;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
@@ -126,8 +130,33 @@ text-decoration-line: underline;
 
 }
 .section-2{
-    margin-right: 500px;
+    margin-right: 370px;
+
 }
 .section-3{
     margin-left: 250px;
 }
+/* third emoji section */
+.title{
+    align-items: center;
+    text-align: center;
+    margin-top: 150px;
+}
+.title-1{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.title-2{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+#emoji{
+    display: block;
+    margin-top: 50px;
+    text-align: center;
+}
+/*fourd emoji style */
