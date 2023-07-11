@@ -193,8 +193,9 @@
     text-align: center;
 }
 .input-email{
+    padding: 10px 30px;
     width: 700px;
-    height: 64px;
+    height: 43px;
     border-radius: 8px;
     background: #FFF;
 }
@@ -206,4 +207,34 @@
     color: #FFF;
     font-size: 20px;
     font-weight: 700;
+}
+/* footer section */
+.content{
+    display: block;
+    margin-top: 100px;
+    width: 1922px;
+    height: 449px;
+    background: #111010;
+}
+.footer{
+    padding-top: 150px;
+    text-align: center;
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+}
+.id{
+    color: #FFF;
+}
+.footer-1{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.footer-2{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
 }
